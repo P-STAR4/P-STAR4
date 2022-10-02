@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;P-+STAR7;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-<h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★ You Crazy ★ <img src="https://github.com/P-STAR4/P-STAR4/blob/main/mituls%20code.gif"
 <h1 align="center"><img src="https://github.com/P-STAR4/P-STAR4/blob/main/Zero%20Two%20Dance.webp"
 <h1 align="center"><img src="https://github.com/P-STAR4/P-STAR4/blob/main/Hacking%20Animasi.gif"
 <h1 align="center">★ STATISTICS ★</i></b></h3>
